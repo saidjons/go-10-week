@@ -1,0 +1,7 @@
+mode: set
+github.com/saidjon/testing-person/person/person.go:9.42,10.13 1 1
+github.com/saidjon/testing-person/person/person.go:10.13,12.3 1 1
+github.com/saidjon/testing-person/person/person.go:14.2,14.16 1 1
+github.com/saidjon/testing-person/person/person.go:14.16,16.3 1 1
+github.com/saidjon/testing-person/person/person.go:18.2,20.8 1 1
+github.com/saidjon/testing-person/person/person.go:23.44,25.2 1 1
